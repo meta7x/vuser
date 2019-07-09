@@ -1,0 +1,23 @@
+{
+  "name": "vuser",
+  "version": "0.0.1",
+  "description": "A Vue.js plugin to manage user data and sync it between devices.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "vue",
+    "vuejs",
+    "vue.js",
+    "auth",
+    "authentication",
+    "user",
+    "data",
+    "firebase",
+    "firestore",
+    "firebase-auth"
+  ],
+  "author": "Dimitri von Rütte",
+  "license": "MIT"
+}
